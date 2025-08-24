@@ -1,0 +1,82 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# folders
+/data/
+/old/
+/tabs/
+/tests/
+/embedding/
+
+# C extensions
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Logs
+*.log
+
+# Data files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.xlsm
+*.sav
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.db
+*.sqlite
+
+# JSON
+*.json
+
+# Config / secrets
+.env
+*.yaml
+*.yml
+
+# Output / results
+*.out
+*.bak
+*.tmp
+
+# Images / media
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.tiff
+*.bmp
+*.svg
+
+# PDFs and docs
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+# MacOS / Windows system files
+.DS_Store
+Thumbs.db
